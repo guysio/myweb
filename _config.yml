@@ -1,5 +1,5 @@
 title: My Website
 description: This is my personal website.
 baseurl: "" # Để trống nếu bạn triển khai trên GitHub Pages
-url: "https://guysio.github.io" # Thay thế bằng URL của bạn
+url: "https://guysio.github.io/myweb/" # Thay thế bằng URL của bạn
 theme: minima # Bạn có thể chọn theme khác nếu muốn
