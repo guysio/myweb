@@ -1,5 +1,5 @@
 title: My Personal Website
 description: A personal website built with Jekyll
-url:  https://guysio.github.io/
+url:  "https://guysio.github.io/"
 theme: minima
 markdown: kramdown
