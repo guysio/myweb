@@ -1,17 +1,5 @@
 title: My Personal Website
 description: A personal website built with Jekyll
-url: http://127.0.0.1:5500/my-personal-website/
+url:  https://guysio.github.io/
 theme: minima
 markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-exclude:
-  - README.md
-include:
-  - _pages
-  - _posts
-  - _includes
-  - _layouts
-  - assets
-  - index.html
