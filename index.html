@@ -1,38 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+layout: default
+title: Home
+---
 
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{{ site.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
-</head>
+# Welcome to My Website
 
-<body>
-    {% include header.html %}
-
-    <main>
-        <h2>Welcome to My Personal Website</h2>
-        <p>
-            This is the main entry point of my personal website built with Jekyll.
-        </p>
-
-        <h3>Recent Posts</h3>
-        <ul>
-            {% for post in site.posts %}
-            <li>
-                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-                <span>{{ post.date | date: "%B %d, %Y" }}</span>
-            </li>
-            {% endfor %}
-        </ul>
-    </main>
-
-    <footer>
-        <p>&copy; {{ site.time | date: "%Y" }} My Personal Website</p>
-    </footer>
-
-    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
-</body>
-
-</html>
+This is a simple Jekyll website.
