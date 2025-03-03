@@ -1,9 +1,6 @@
 title: My Personal Website
 description: A personal website built with Jekyll
-url: https://guysio.github.io/myweb
-author:
-  name: guysio
-  email: guyluxury6@gmail.com
+url: http://127.0.0.1:5500/my-personal-website/
 theme: minima
 markdown: kramdown
 plugins:
@@ -11,7 +8,10 @@ plugins:
   - jekyll-seo-tag
 exclude:
   - README.md
+include:
+  - _pages
+  - _posts
   - _includes
   - _layouts
-  - _posts
   - assets
+  - index.html
