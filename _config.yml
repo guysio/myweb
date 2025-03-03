@@ -1,9 +1,9 @@
 title: My Personal Website
 description: A personal website built with Jekyll
-url: http://example.com
+url: https://guysio.github.io/myweb
 author:
   name: guysio
-  email: https://guysio.github.io/myweb
+  email: guyluxury6@gmail.com
 theme: minima
 markdown: kramdown
 plugins:
