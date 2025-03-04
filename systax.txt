@@ -1,0 +1,5 @@
+### run serve jekyll
+bundle exec jekyll serve --host 0.0.0.0
+--> Lưu ý khi triển khai thực tế thì đường dẫn sẽ ko ở dạng 0.0.0.0 như mô tả mà sẽ là 1 dạng rất dài các ký tự vì hiện tại lúc
+này hệ thống đang triển khai 1 serve online ngoài máy nên nó cần 1 domain đặt biệt, vì thế domain mà ta thấy dài ấy đại hiện cho 0.0.0.0
+còn các đường dẫn "/" phía sau được sữ dụng như bình thường.
