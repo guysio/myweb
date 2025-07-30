@@ -1,3 +1,26 @@
+---
+layout: project
+permalink: /monica-everett/
+category: projects
+
+meta:
+  keywords: "Jekyll, Truyện, Monica Everett"
+
+project:
+  title: "Monica Everett"
+  type: "Jekyll"
+  url: "#"
+  logo: ""
+  tech: "Text"
+
+agency:
+  title: "Tác giả GUYS"
+  url: "#"
+  year: "2025"
+
+images: []
+---
+
 **Chapter 1**
 
 Mở đầu: Cuộc chinh phạt con kiến ngày cuối tuần
